@@ -13,10 +13,7 @@ const CONFIG = {
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
-    floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
-    },
+                         // Cute bear emojis
 
     // Questions and answers
     // Customize each question and its possible responses
@@ -51,7 +48,7 @@ const CONFIG = {
     celebration: {
         title: "you did it sayang!! 30 days ciggarette freeee!!!!!!!!!! ",
         message: "now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        // These will bounce around
     },
 
     // Color scheme for the website
